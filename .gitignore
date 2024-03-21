@@ -1,0 +1,2 @@
+# Ignoring *.yy.c type files that are created by FLEX (flex *.l -> *.yy.c)
+*.yy.c
